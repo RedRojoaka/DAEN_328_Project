@@ -1,9 +1,12 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Make sure your paths look like this in the root file:
+daen328_env/
+Assignments/Assignment_0/
+Assignments/Assignment_1/data/
 __pycache__/
 *.pyc
 .env
 .vscode/
 .idea/
 .DS_Store
-*.db
-'/Users/alejandrorojo/Documents/DAEN_328/Github Guide.ipynb'
-'/Users/alejandrorojo/Documents/DAEN_328/Virtual Environment Setup Guide-2.ipynb'
+**/*.db
