@@ -9,4 +9,6 @@ __pycache__/
 .vscode/
 .idea/
 .DS_Store
-**/*.db
+bigquery-key.json
+*-service-account*.json
+*.db
